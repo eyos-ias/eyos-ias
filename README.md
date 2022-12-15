@@ -4,7 +4,7 @@
 <h2>👋About me </h2>
 <p>I am a web and mobile app developer with experience in building user-friendly and engaging applications. I have a passion for technology and enjoy solving complex problems with creative solutions. In my free time, I like to experiment with new technologies and learn about the latest trends in the field. Let's connect and collaborate on exciting projects!</p>
 
-- 🔭 I’m currently working on [spotify at home](https://github.com/eyos02/spotify-at-home)
+- 🔭 I’m currently working on [spotify at home](https://github.com/eyos-ias/spotify-at-home)
 
 - 🌱 My present endeavour is SSR using **SvelteKit**
 
@@ -36,6 +36,6 @@
 
 <!-- Github Stats section -->
 <h2 align="left">📊Github stats: </h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyos02&show_icons=true&locale=en&layout=compact" alt="eyos02" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyos02&show_icons=true&locale=en" alt="eyos02" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyos-ias&show_icons=true&locale=en&layout=compact" alt="eyos-ias" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyos-ias&show_icons=true&locale=en" alt="eyos-ias" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyos02&" alt="eyos02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyos-ias&" alt="eyos-ias" /></p>
