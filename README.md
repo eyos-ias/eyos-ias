@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [spotify at home](https://github.com/eyos02/spotify-at-home)
 
-- 🌱 Presently learning SSR using **SvelteKit**
+- 🌱 My present endeavour is SSR using **SvelteKit**
 
 - 👯 I’m looking to collaborate on **anything/everything**
 
