@@ -1,7 +1,6 @@
 <h1 align="center">Hello there 🔦, I'm Eyosias</h1>
 <h3 align="center">A passionate web & mobile app developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/eyos_ias" target="blank"><img src="https://img.shields.io/twitter/follow/eyos_ias?logo=twitter&style=for-the-badge" alt="eyos_ias" /></a> </p>
 
 <h2>About me </h2>
 <p>I am a web and mobile app developer with experience in building user-friendly and engaging applications. I have a passion for technology and enjoy solving complex problems with creative solutions. In my free time, I like to experiment with new technologies and learn about the latest trends in the field. Let's connect and collaborate on exciting projects!</p>
