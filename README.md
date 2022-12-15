@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 🔦, I'm Eyosias</h1>
-<h3 align="center">A passionate web & mobile app developer 💻</h3>
+<h3 align="center">A passionate Web & Mobile app Developer 💻.</h3>
 
 
 <h2>About me </h2>
