@@ -16,6 +16,8 @@
 
 - 📄 Know about my <strong>[experience](https://drive.google.com/file/d/1yuBtEZhHQ4OBOAU-CeX_7OBO84Zos7Es/view?usp=sharing)</strong>
 
+- ⌨ Nothing like Monkeytype(https://monkeytype.com/profile/eyosias) to boost my ego
+
 <h2 align="left">💻Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/eyosias-tamirat-5a489b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyosias tamirat" height="30" width="40" /></a><a href="http://t.me//eyos_ias" target="blank"> 
