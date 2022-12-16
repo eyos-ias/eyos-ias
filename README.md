@@ -16,7 +16,7 @@
 
 - 📄 Know about my <strong>[experience](https://drive.google.com/file/d/1yuBtEZhHQ4OBOAU-CeX_7OBO84Zos7Es/view?usp=sharing)</strong>
 
-- ⌨ Nothing like Monkeytype(https://monkeytype.com/profile/eyosias) to boost my ego
+- ⌨ Nothing like [Monkeytype](https://monkeytype.com/profile/eyosias) to boost my ego
 
 <h2 align="left">💻Connect with me:</h2>
 <p align="left">
