@@ -2,6 +2,7 @@
 <h2 align="center">I make stuff 💻</h2>
 
 <h2>👋About me </h2>
+[![wakatime](https://wakatime.com/badge/user/bd8681c2-0783-449b-afcc-b2e848e8b104.svg)](https://wakatime.com/@bd8681c2-0783-449b-afcc-b2e848e8b104)
 <p>I am a web and mobile app developer with experience in building user-friendly and engaging applications. I have a passion for technology and enjoy solving complex problems with creative solutions. In my free time, I like to experiment with new technologies and learn about the latest trends in the field. Let's connect and collaborate on exciting projects!</p>
 
 - 🔭 I’m currently working on [spotify at home](https://github.com/eyos-ias/spotify-at-home)
