@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 🔦, I'm Eyosias</h1>
-<h2 align="center">I make stuff 💻</h2>
+<h2 align="center">I make stuff (i try) 💻</h2>
 
 
 - 🔭 I’m currently working on [spotify at home](https://github.com/eyos-ias/spotify-at-home)
