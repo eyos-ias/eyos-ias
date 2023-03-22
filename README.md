@@ -1,6 +1,7 @@
 <h1 align="center">Hello there 🔦, I'm Eyosias</h1>
 <h2 align="center">I make stuff (I try) 💻</h2>
 
+[![wakatime](https://wakatime.com/badge/user/bd8681c2-0783-449b-afcc-b2e848e8b104.svg)](https://wakatime.com/@bd8681c2-0783-449b-afcc-b2e848e8b104)
 
 - 🔭 I’m currently working on [spotify at home](https://github.com/eyos-ias/spotify-at-home)
 
