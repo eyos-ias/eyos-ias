@@ -2,9 +2,8 @@
 <h2 align="center">I make stuff (I try) 💻</h2>
 
 
-- 🔭 I’m currently working on [spotify at home](https://github.com/eyos-ias/spotify-at-home)
 
-- 🌱 My present endeavour is SSR using **SvelteKit**
+- 🌱 Currently learning SSR using **SvelteKit**
 
 - 👯 I’m looking to collaborate on **anything/everything**
 
