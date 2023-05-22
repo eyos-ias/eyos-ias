@@ -34,5 +34,5 @@
 
 
 <!-- Github Stats section -->
-<h2 align="left">📊Github stats: </h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyos-ias&show_icons=true&locale=en&layout=compact" alt="eyos-ias" /></p<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyos-ias&show_icons=true&locale=en" alt="eyos-ias" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyos-ias&" alt="eyos-ias" /></p>
+<h2 align="center">📊Github stats: </h2>
+p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyos-ias&show_icons=true&locale=en" alt="eyos-ias" /></p>
