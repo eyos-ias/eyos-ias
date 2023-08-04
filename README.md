@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything/everything**
 
-- 💬 Ask me about **Flutter & React**
+- 💬 Ask me about **Godot & Flutter**
 
 - 📫 Mail me on **eyosiastamirat20@gmail.com**
 
