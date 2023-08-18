@@ -3,9 +3,9 @@
 
 
 
-- 🌱 Currently learning SSR using **SvelteKit**
+- 🌱 Currently learning 3D game development with **Godot**
 
-- 👯 I’m looking to collaborate on **anything/everything**
+- ⚒ I’m looking to collaborate on **anything/everything**
 
 - 💬 Ask me about **Godot & Flutter**
 
