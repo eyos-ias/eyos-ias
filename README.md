@@ -17,7 +17,7 @@
 
 <h2 align="left">💻Connect with me:</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/eyosias-tamirat-5a489b220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyosias tamirat" height="30" width="40" /></a><a href="http://t.me//eyos_ias" target="blank"> 
+  <a href="https://www.linkedin.com/in/eyos-ias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyosias tamirat" height="30" width="40" /></a><a href="http://t.me//eyos_ias" target="blank"> 
     <img align="center" src="https://img.icons8.com/color/2x/telegram-app--v1.png" alt="telegram" height="40" width="40"/>
   </a>
 <a href="https://twitter.com/eyos_ias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eyos_ias" height="30" width="40" /></a>
