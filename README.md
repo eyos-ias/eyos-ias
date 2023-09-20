@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Currently learning 3D game development with **Godot**
+- 🌱 Currently building my portfolio site.
 
 - ⚒ I’m looking to collaborate on **anything/everything**
 
