@@ -16,8 +16,9 @@
 - 📄 Know about my <strong>[experience](https://drive.google.com/file/d/1gXdD0s9gLbQSD7PtmTcmHEhfZ99stJqY/view?usp=sharing)</strong>
 
 - [MonkeyType](https://monkeytype.com/profile/eyosias)
--->
+
 <h2 align="left">💻Connect with me:</h2>
+-->
 <p align="left">
   <a href="https://www.linkedin.com/in/eyos-ias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyosias tamirat" height="30" width="40" /></a><a href="http://t.me//eyos_ias" target="blank"> 
     <img align="center" src="https://img.icons8.com/color/2x/telegram-app--v1.png" alt="telegram" height="40" width="40"/>
