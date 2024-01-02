@@ -1,3 +1,5 @@
+
+<!--
 <h1 align="center">Hello there 🔦, I'm Eyosias</h1>
 <h2 align="center">I make stuff (I try) 💻</h2>
 
@@ -12,8 +14,8 @@
 - 📫 Mail me on **eyosiastamirat20@gmail.com**
 
 - 📄 Know about my <strong>[experience](https://drive.google.com/file/d/1gXdD0s9gLbQSD7PtmTcmHEhfZ99stJqY/view?usp=sharing)</strong>
-
-- ⌨ Nothing like [Monkeytype](https://monkeytype.com/) to boost my [ego](https://monkeytype.com/profile/eyosias)
+-->
+- [MonkeyType](https://monkeytype.com/profile/eyosias)
 
 <h2 align="left">💻Connect with me:</h2>
 <p align="left">
