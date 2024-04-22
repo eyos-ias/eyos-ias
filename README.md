@@ -1,4 +1,4 @@
-
+[![wakatime](https://wakatime.com/badge/user/bd8681c2-0783-449b-afcc-b2e848e8b104.svg)](https://wakatime.com/@bd8681c2-0783-449b-afcc-b2e848e8b104)
 <!--
 <h1 align="center">Hello there 🔦, I'm Eyosias</h1>
 <h2 align="center">I make stuff (I try) 💻</h2>
