@@ -36,5 +36,5 @@
 
 
 <!-- Github Stats section -->
-<h2 align="left">📊Github stats: </h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyos-ias&show_icons=true&locale=en" alt="eyos-ias" /></p>
+<!-- <h2 align="left">📊Github stats: </h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyos-ias&show_icons=true&locale=en" alt="eyos-ias" /></p> -->
